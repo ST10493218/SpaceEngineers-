@@ -1,0 +1,22 @@
+# Python cache directories
+
+# Virtual environments
+venv/
+env/
+
+# Build directories
+build/
+dist/
+
+# Python egg info
+*.egg-info/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Mac-specific files
+.DS_Store/
+
+# SpaceEngineers specific files
+*.spb
